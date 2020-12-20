@@ -1,8 +1,11 @@
 # Environment Variables
-.evn
+.env
 
 # Data base
-.sqlite3
+db.sqlite3
 
 # Virtual enverioment
 env
+
+__pycache__
+
