@@ -1,0 +1,8 @@
+# Environment Variables
+.evn
+
+# Data base
+.sqlite3
+
+# Virtual enverioment
+env
